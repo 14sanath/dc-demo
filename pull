@@ -1,9 +1,10 @@
 <html>
 <head>gitlab</head>
 <body>
-    <p>gitlab is widely used area to store the data</p>
+    <p>gitlab is widely used area to store the data</a>
     <h1>gitlab</h1>
     <h2> it must be signin to use gitlab</h2>
     <h2>signin using chrome</h2>
+    <h2>signin using brave</h2>
 </body>
 </html>
